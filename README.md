@@ -1,7 +1,5 @@
 # Digital_Signature_System
 
-# Digital Signature System
-
 A simple and educational digital signature system implemented using RSA encryption in a Jupyter Notebook.
 
 ## Overview
